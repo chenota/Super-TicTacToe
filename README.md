@@ -5,7 +5,7 @@ Super Tic Tac Toe is started via command line, using the tictactoe.py file. The 
 ```
 ./tictactoe.py {human,random,minimax} [options] {human,random,minimax} [options]
 ```
-You can run
+You can also run
 ```
 ./tictactoe.py --help
 ```
